@@ -5,8 +5,7 @@
   "description": "A simple bookmark button",
   "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/bookmark-it",
   "icons": {
-    "48": "icons/bookmark-it.png",
-    "96": "icons/bookmark-it@2x.png"
+    "48": "icons/star-filled-19.png"
   },
 
   "permissions": [
